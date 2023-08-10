@@ -7,7 +7,7 @@ This is a package to convert GeoJSON files to CSV files with a GeoWKT field for 
 clone the repository.
 
 ```bash
-git clone https://github.com/GeoJson2csv/GeoJson2csv.git
+git clone git@github.com:nkmwicz/geojson2csv.git
 ```
 
 The command line tool can be run as follows prepending python3 or python to the command depending on the Python version:
