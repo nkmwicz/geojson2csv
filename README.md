@@ -16,7 +16,7 @@ The command line tool can be run as follows prepending python3 or python to the 
 python3 ./geojson2csv.py input.json output.csv
 ```
 
-You can improve its usability by adding the package's location to your path. In that case, you don't need to prepend python3 or python to the command.
+You can improve its usability by adding the package's location to your PATH. In that case, you don't need to prepend python3 or python to the command.
 
 ```bash
 geojson2csv.py input.json output.csv
