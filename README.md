@@ -15,7 +15,7 @@ git clone git@github.com:nkmwicz/geojson2csv.git
 The command line tool can be run as follows prepending python3 or python to the command depending on the Python version:
 
 ```bash
-python3 ./geojson2csv.py input.json output.csv
+python3 ./geojson2csv.py input.geojson output.csv
 ```
 
 You can improve its usability by adding the package's location to your PATH. In that case, you don't need to prepend python3 or python to the command.
